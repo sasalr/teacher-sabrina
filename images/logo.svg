@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+	<title>Novo Projeto</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 400px;fill: #b41241;font-weight: 400;font-family: "Condiment-Regular", "Condiment" } 
+	</style>
+	<text id="SL" style="transform: matrix(1,0,0,1,44,4)" >
+		<tspan x="0" y="384" class="t0">S</tspan><tspan  y="384" class="t0">L</tspan><tspan  y="384" class="t0">
+</tspan>
+	</text>
+</svg>
